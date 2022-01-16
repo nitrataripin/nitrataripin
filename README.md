@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning deep learning and Korean ;)
 
 <br>
+
 - 📚 [66DaysOfData](https://github.com/nitrataripin/66DaysOfDataNotes)
 <!---
 nitrataripin/nitrataripin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
