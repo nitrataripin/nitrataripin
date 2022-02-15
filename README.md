@@ -10,7 +10,7 @@
 
 - 📚 [66DaysOfData](https://github.com/nitrataripin/66DaysOfDataNotes)
 - 📚 [DQLAB](https://github.com/nitrataripin/DQLAB)
-- 🏫 [Course: Desain & Analisis Sistem](https://teachingfactory.net/program/teknologi-informasi/desain-dan-analisis-sistem/)
+- 🏫 [TFN: Desain & Analisis Sistem](https://github.com/nitrataripin/TFN-Desain-dan-Analisis-Sistem)
 <!---
 nitrataripin/nitrataripin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
