@@ -9,7 +9,7 @@
 ### Currently Working On
 
 - 📚 [66DaysOfData](https://github.com/nitrataripin/66DaysOfDataNotes)
-- 📚 [DQLAB](https://github.com/nitrataripin/DQLAB)
+- 📚 [DQLAB](https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/READ%20ME.md#dqlab)
 - 🏫 [TFN: Desain & Analisis Sistem](https://github.com/nitrataripin/TFN-Desain-dan-Analisis-Sistem)
 <!---
 nitrataripin/nitrataripin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
