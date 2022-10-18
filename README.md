@@ -9,7 +9,7 @@
 ### Currently Working On
 
 - 🔗 [other projects on Replit](https://replit.com/@nratnawaty)
-- 📚 [DQLAB](https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/READ%20ME.md#dqlab)
+- 📚 [DQLAB](https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/README.md#dqlab)
 
 <br>
 
