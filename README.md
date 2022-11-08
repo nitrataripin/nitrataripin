@@ -2,14 +2,17 @@
 
 - 👋 Hi, I’m Nita. You can also call me Ni.
 - 👀 I’m interested in machine learning, deep learning, computer science, mathematical programming, and :coffee:
-- 🌱 I’m currently learning deep learning and Korean ;)
+- 🌱 I’m currently learning deep learning and Korean and blockchain ;)
 
 <br>
 
 ### Currently Working On
 
-- 🔗 [other projects on Replit](https://replit.com/@nratnawaty)
+- 🔗 other projects on Replit
+   - [nitrataripin](https://replit.com/@nitrataripin)
+   - [nratnawaty](https://replit.com/@nratnawaty)
 - 📚 [DQLAB](https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/README.md#dqlab)
+- 📚 [DATACAMP](https://github.com/nitrataripin/PROJECTS/blob/main/DATACAMP/README.md)
 
 <br>
 
