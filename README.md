@@ -13,6 +13,7 @@
    - [nratnawaty](https://replit.com/@nratnawaty)
 - 📚 [DQLAB](https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/README.md#dqlab)
 - 📚 [DATACAMP](https://github.com/nitrataripin/PROJECTS/blob/main/DATACAMP/README.md)
+- 📚 [ALCHEMY UNIVERSITY](https://github.com/nitrataripin/PROJECTS/tree/main/2022%20ALCHEMY%20UNIVERSITY)
 
 <br>
 
