@@ -11,7 +11,6 @@
 - 🔗 other projects on Replit
    - [nitrataripin](https://replit.com/@nitrataripin)
    - [nratnawaty](https://replit.com/@nratnawaty)
-- 📚 [DQLAB](https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/README.md#dqlab)
 - 📚 [DATACAMP](https://github.com/nitrataripin/PROJECTS/blob/main/DATACAMP/README.md)
 - 📚 [ALCHEMY UNIVERSITY](https://github.com/nitrataripin/PROJECTS/tree/main/2022%20ALCHEMY%20UNIVERSITY)
 
@@ -19,6 +18,7 @@
 
 ### Previous Works
 
+- 📚 [DQLAB](https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/README.md#dqlab)
 - 📚 [66DaysOfData](https://github.com/nitrataripin/66DaysOfDataNotes)
 - 🏫 [TFN: Desain & Analisis Sistem](https://github.com/nitrataripin/TFN-Desain-dan-Analisis-Sistem)
 
