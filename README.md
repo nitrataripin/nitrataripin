@@ -7,11 +7,8 @@
 <br>
 
 ### Currently Working On
-
-- 🔗 other projects on Replit
-   - [nitrataripin](https://replit.com/@nitrataripin)
-   - [nratnawaty](https://replit.com/@nratnawaty)
 - 📚 [ALCHEMY UNIVERSITY](https://github.com/nitrataripin/PROJECTS/tree/main/2022%20ALCHEMY%20UNIVERSITY)
+- 📚 [Udemy: 100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/nitrataripin/PROJECTS/tree/main/UDEMY/2025%20-%20100%20Days%20of%20Code%20Python%20Bootcamp)
 
 <br>
 
